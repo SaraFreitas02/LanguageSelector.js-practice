@@ -1,0 +1,29 @@
+h1,
+p {
+    color: pink;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button,
+select {
+    width: 30%;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    border-color: pink;
+    color: pink;
+}
+
+button:hover,
+select:hover {
+    color: white;
+    background-color: pink;
+    cursor: pointer;
+}
