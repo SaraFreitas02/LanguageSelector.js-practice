@@ -48,4 +48,4 @@ While I have released this code into the public domain, please be aware that I a
 
 Feel free to use this code as a starting point for your projects, experiment with it, or incorporate it into your work without any constraints.
 
-For more details, refer to the [Unlicense](UNLICENSE) file in this repository.
+For more details, refer to the [Unlicense](https://github.com/SaraFreitas02/LanguageSelector.js-practice/blob/main/LICENSE) file in this repository.
